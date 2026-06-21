@@ -1,16 +1,37 @@
-## Hi there 👋
+# Dominik Tomaško
 
-<!--
-**dtomasko/dtomasko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**17-year-old Compter Science student based in Croatia**
 
-Here are some ideas to get you started:
+Student at the **Technical School Ruđer Bošković**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+
+* **Arch hyprland dotfiles** - personal dotfiles for arch linux
+* **C++ learning repo** - repository for all my tasks and procjects in **C++**
+
+---
+
+## Interests
+
+* Game Engine Architecture
+* Low-level software
+* C++
+* rendering and graphics API's
+* Linux
+
+---
+
+## Currently Learning
+
+* Game Engine Programming
+* C++
+* Arch linux and linux in general
+* Computer Graphics
+
+---
+
+## 📍 Location
+
+Zagreb, Croatia
+
+
