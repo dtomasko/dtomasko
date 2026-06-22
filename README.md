@@ -16,7 +16,6 @@ Currently working on:
 * Game Engine Architecture
 * Low-level software
 * C++
-* rendering and graphics API's
 * Linux
 
 ---
@@ -26,8 +25,6 @@ Currently working on:
 * Game Engine Programming
 * C++
 * Arch linux and linux in general
-* Computer Graphics
-
 ---
 
 ## 📍 Location
